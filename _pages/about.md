@@ -32,7 +32,7 @@ I am a senior undergraduate student pursuing a **Bachelor of Engineering in Syst
 My research and professional experience focus on Artificial Intelligence, Computer vision, Agentic Systems, and Medical Imaging. I recently completed an internship as an **AI Intern at [IBM](https://www.ibm.com)**, where I worked on large-scale projects and developed a multi-agent system using MCPs and AutoGen
 <!-- . Additionally, I served as an **Undergraduate Research Assistant at Nile University**, working on the early detection and diagnosis of papilledema using AI and fundus imaging. -->
 
-[cite_start]I have also contributed to the field of computer vision with a publication in the **NILES conference** and have been honored with **multiple awards in research competitions**
+I have also contributed to the field of computer vision with a publication in the **NILES conference** and have been honored with **multiple awards in research competitions**
 
 <!-- ### Key Projects
 * **CUBE.AI:** An ongoing agentic platform for clinical AI model development that integrates MONAI Label, nnU-Net, SAM, and Vista3D for an end-to-end PACS-to-deployment workflow.
@@ -41,4 +41,4 @@ My research and professional experience focus on Artificial Intelligence, Comput
 
 Beyond research, I served as the **Technical Director for IEEE EMBS**, where I led five technical clubs (AI, Embedded Systems, SWE, Medical Equipment, Research) and organized workshops for over 500 students[cite: 43].
 
-You can find my code on [GitHub](https://github.com/Mostafaali3) and connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-mahmoud-041/). [cite: 3, 5]
+You can find my code on [GitHub](https://github.com/Mostafaali3) and connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-mahmoud-041/).
