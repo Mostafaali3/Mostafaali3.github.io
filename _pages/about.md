@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Systems & Biomedical Engineering Student</a>. Cairo University.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cairo University</p>
+    <p>mostafa.mahmoud041@eng-st.cu.edu.eg</p>
+    <p>(+20) 106 302 6453</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[cite_start]I am a senior undergraduate student pursuing a **Bachelor of Engineering in Systems and Biomedical Engineering** at **Cairo University** (2021-2026)[cite: 4, 6]. [cite_start]I currently hold a **CGPA of 3.8/4.0** and am **ranked 6th** in my class[cite: 4].
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research and professional experience focus on Artificial Intelligence, Agentic Systems, and Medical Imaging. [cite_start]I recently completed an internship as an **AI Intern at IBM**, where I worked on large-scale projects and developed a multi-agent system using MCPs and AutoGen[cite: 8, 10]. [cite_start]Additionally, I served as an **Undergraduate Research Assistant at Nile University**, working on the early detection and diagnosis of papilledema using AI and fundus imaging[cite: 11, 13].
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work has been recognized in the academic community. [cite_start]My project, "Real-Time Student Drowsiness Detection Using CNN Spatial Transformer," was published in the **7th NILES Conference** and secured **1st place** at both the **IEEE Egyptian Students Paper Contest** and the **NU Egypt Undergraduate Research Forum**[cite: 19, 21, 41].
+
+### Key Projects
+* [cite_start]**CUBE.AI:** An ongoing agentic platform for clinical AI model development that integrates MONAI Label, nnU-Net, SAM, and Vista3D for an end-to-end PACS-to-deployment workflow[cite: 15, 17].
+* [cite_start]**Trans Quake:** Developed a Transformer-based architecture to classify extraterrestrial seismic events from NASA's Apollo mission data with 0.88 accuracy[cite: 24, 27].
+* [cite_start]**Cognitive Control Analysis:** Performed group-level fMRI analysis on Flanker Task data using FSL and GLM to identify activation in the prefrontal cortex[cite: 22, 23].
+
+[cite_start]Beyond research, I served as the **Technical Director for IEEE EMBS**, where I led five technical clubs (AI, Embedded Systems, SWE, Medical Equipment, Research) and organized workshops for over 500 students[cite: 43].
+
+[cite_start]You can find my code on [GitHub](https://github.com/Mostafaali3) and connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-mahmoud-041/). [cite: 3, 5]
